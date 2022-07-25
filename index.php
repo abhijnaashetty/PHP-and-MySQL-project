@@ -29,4 +29,4 @@ if(isset($_POST['name'])){
     }
     $con->close();
 }
-    ?>
+?>
